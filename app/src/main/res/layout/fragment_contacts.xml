@@ -1,0 +1,26 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:background="@android:color/darker_gray"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="dev.mohamed.tony.talkwithme.fragments.ContactsFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+<dev.mohamed.tony.talkwithme.RecyclerViewEmptySupport
+    android:id="@+id/contacts_list"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+</dev.mohamed.tony.talkwithme.RecyclerViewEmptySupport>
+
+    <TextView
+        android:id="@+id/empty_view_contact"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:text="@string/no_contact_available"
+        android:textColor="@android:color/white"
+        android:textSize="20sp" />
+
+</FrameLayout>
