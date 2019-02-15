@@ -1,5 +1,5 @@
 # TalkWithMe
-##  is a messaging focused app which allows users to share text messages, photos and finding new people.
+##  is a messaging app which allows users to share text messages, photos and finding new people.
 
 
 # Used Technologies
