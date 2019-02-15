@@ -26,3 +26,7 @@ ___________________________________
 | 4# Sign in with facebook  |       
 | ------------- |      
 |<img src="https://user-images.githubusercontent.com/17835207/52849710-6088ce80-311a-11e9-84c0-6960c5e5b138.png" width="260" height="400" /> |
+
+| 1# Sign in with Google |  2# Sign in with Google |   All users screen  |       
+| ------------- | ------------- | ------------- |      
+| <img src="https://user-images.githubusercontent.com/17835207/52854404-f6c2f180-3126-11e9-9abf-430693fc2554.png" width="260" height="400" />|<img src="https://user-images.githubusercontent.com/17835207/52854485-32f65200-3127-11e9-9183-c069089da763.png" width="260" height="400" />|<img src="https://user-images.githubusercontent.com/17835207/52854570-794bb100-3127-11e9-9e2a-a36c2d835f06.png" width="260" height="400" />|
